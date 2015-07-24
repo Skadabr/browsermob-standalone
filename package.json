@@ -1,0 +1,21 @@
+{
+  "name": "browsermob-standalone",
+  "version": "2.0.10",
+  "description": "a jar browsermob proxy wrapper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skadabr/browsermob-standalone.git"
+  },
+  "keywords": [
+    "browsermob",
+    "browsermob proxy",
+    "browsermob standalone"
+  ],
+  "author": "skadabr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skadabr/browsermob-standalone/issues"
+  },
+  "homepage": "https://github.com/Skadabr/browsermob-standalone#readme"
+}
