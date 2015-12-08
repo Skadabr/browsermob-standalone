@@ -1,6 +1,6 @@
 {
   "name": "browsermob-standalone",
-  "version": "2.0.10",
+  "version": "2.1.03",
   "description": "a jar browsermob proxy wrapper",
   "main": "index.js",
   "repository": {
